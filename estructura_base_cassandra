@@ -34,6 +34,7 @@ CREATE TABLE user_purchase_history (
 CREATE TABLE product_co_purchase (
     product_id int, --producto principal
     co_purchased_product_id int, 
+    total_purchases int,
     PRIMARY KEY (product_id, total_purchases)
 ) WITH CLUSTERING ORDER BY (total_purchases DESC);
 
