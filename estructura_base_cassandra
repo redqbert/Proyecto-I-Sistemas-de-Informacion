@@ -8,6 +8,7 @@ USE company;
 
 CREATE TABLE user_interactions (
     user_id int,
+    user_name text,
     interaction_time timestamp, 
     product_id int,
     action text,  
