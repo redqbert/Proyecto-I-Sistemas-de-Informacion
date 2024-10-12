@@ -8,7 +8,6 @@ USE company;
 
 CREATE TABLE user_interactions (
     user_id int,
-    user_name text,
     interaction_time timestamp, 
     product_id int,
     action text,  
@@ -18,6 +17,7 @@ CREATE TABLE user_interactions (
 
 CREATE TABLE popular_products (
     category text,
+    product_name text,
     product_id int,
     total_interactions int, 
     PRIMARY KEY (category, total_interactions)
@@ -34,6 +34,7 @@ CREATE TABLE user_purchase_history (
 CREATE TABLE product_co_purchase (
     product_id int, --producto principal
     co_purchased_product_id int, 
+    co_purchased_product_name text,
     total_purchases int,
     PRIMARY KEY (product_id, total_purchases)
 ) WITH CLUSTERING ORDER BY (total_purchases DESC);
