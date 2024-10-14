@@ -14,8 +14,9 @@ wget https://downloads.apache.org/hbase/2.5.10/hbase-2.5.10-bin.tar.gz
 4.Descomprimir el archivo descargado y meterlo en una carpeta(en este caso la carpeta es hbase):
 tar -xzf hbase-2.5.10-bin.tar.gz
 mv hbase-2.5.10 hbase
-
 5.Ahora es necesario tener instalado nano para mas comodidad(si no lo tiene instalelo usando: sudo apt-get install nano) y ejecute lo siguiente:
+Dirijase a la carpeta de la configuracion de hbase: cd hbase/conf
+Ahora ejecute esto:
 nano hbase-site.xml
 
 Dentro de hbase-site.xml recorra hasta donde aparecen <configuration>     y        </configuration>,dentro de ambos pegue lo siguiente:
