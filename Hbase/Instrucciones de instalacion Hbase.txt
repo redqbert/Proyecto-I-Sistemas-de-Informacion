@@ -1,0 +1,58 @@
+Pasos para instalar Hbase 2.5.10(stable):
+1.Copiar las siguientes lineas de codigo en la terminal de ubuntu:
+sudo apt update
+sudo apt install openjdk-11-jdk
+sudo apt install openssh-server
+
+2.Verificar la instalacion de Java en la terminal de ubuntu:
+java -version
+
+3.Para descargar el hbase(recomiendo colocar la carpeta que aparece en cd)*si fuese necesario utilice sudo al inicio para obtener los permisos necesarios*:
+cd /opt
+wget https://downloads.apache.org/hbase/2.5.10/hbase-2.5.10-bin.tar.gz
+
+4.Descomprimir el archivo descargado y meterlo en una carpeta(en este caso la carpeta es hbase):
+tar -xzf hbase-2.5.10-bin.tar.gz
+mv hbase-2.5.10 hbase
+
+5.Ahora es necesario tener instalado nano para mas comodidad(si no lo tiene instalelo usando: sudo apt-get install nano) y ejecute lo siguiente:
+nano hbase-site.xml
+
+Dentro de hbase-site.xml recorra hasta donde aparecen <configuration>     y        </configuration>,dentro de ambos pegue lo siguiente:
+
+<property>
+        <name>hbase.rootdir</name>
+        <value>file:///opt/hbase/hbase-data</value>
+    </property>
+    <property>
+        <name>hbase.zookeeper.property.dataDir</name>
+        <value>/opt/hbase/zookeeper</value>
+    </property>
+    <property>
+        <name>hbase.cluster.distributed</name>
+        <value>false</value>
+</property>
+
+Guarde el archivo con ctrl+s y luego presione ctrl+x para salir.
+
+6. Configurar variables de entorno:
+nano ~/.bashrc
+Baje hasta el final del archivo y pegue lo siguiente:
+
+export HBASE_HOME=/opt/hbase
+export PATH=$PATH:$HBASE_HOME/bin
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
+Guarde el archivo con ctrl+s y luego ctrl+x para salir.
+
+7.Cargue los cambios con:
+source ~/.bashrc
+
+Pasos para iniciar hbase:
+1. Escriba en la terminal lo siguiente:
+start-hbase.sh
+
+2.Para entrar en el shell del hbase ejecute lo siguiente:
+hbase shell
+
+
