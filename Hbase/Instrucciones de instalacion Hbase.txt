@@ -7,7 +7,7 @@ sudo apt install openssh-server
 2.Verificar la instalacion de Java en la terminal de ubuntu:
 java -version
 
-3.Para descargar el hbase(recomiendo colocar la carpeta que aparece en cd)*si fuese necesario utilice sudo al inicio para obtener los permisos necesarios*:
+3.Para descargar el hbase(recomiendo colocar la carpeta que aparece en cd)*si fuese necesario de aqui en adelante utilice sudo al inicio de todos los comandos para obtener los permisos necesarios,es decir sudo wget y lo demas, en otros comandos mas adelante igual)*:
 cd /opt
 wget https://downloads.apache.org/hbase/2.5.10/hbase-2.5.10-bin.tar.gz
 
@@ -19,7 +19,7 @@ Dirijase a la carpeta de la configuracion de hbase: cd hbase/conf
 Ahora ejecute esto:
 nano hbase-site.xml
 
-Dentro de hbase-site.xml recorra hasta donde aparecen <configuration>     y        </configuration>,dentro de ambos pegue lo siguiente:
+Dentro de hbase-site.xml recorra hasta donde aparecen <configuration>     y        </configuration>,dentro de ambos pegue lo siguiente(revisar si alguna de estas lineas se repiten si se repiten omite desde el <property> y el </property):
 
 <property>
         <name>hbase.rootdir</name>
@@ -52,6 +52,8 @@ source ~/.bashrc
 Pasos para iniciar hbase:
 1. Escriba en la terminal lo siguiente:
 start-hbase.sh
+(si ocurre algun error ejecutar estos dos comandos: sudo mkdir -p /opt/hbase/logs
+sudo chmod 777 /opt/hbase/logs)
 
 2.Para entrar en el shell del hbase ejecute lo siguiente:
 hbase shell
