@@ -1,0 +1,1278 @@
+create 'user_interactions', 'info'
+
+put 'user_interactions', '1_2024-01-01 00:00:01', 'info:product_id', '1001'
+put 'user_interactions', '1_2024-01-01 00:00:01', 'info:action', 'view'
+put 'user_interactions', '1_2024-01-01 00:00:01', 'info:category', 'Electronics'
+
+put 'user_interactions', '2_2024-01-01 01:00:00', 'info:product_id', '1002'
+put 'user_interactions', '2_2024-01-01 01:00:00', 'info:action', 'search'
+put 'user_interactions', '2_2024-01-01 01:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '3_2024-01-01 02:00:00', 'info:product_id', '1003'
+put 'user_interactions', '3_2024-01-01 02:00:00', 'info:action', 'purchase'
+put 'user_interactions', '3_2024-01-01 02:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '4_2024-01-01 03:00:00', 'info:product_id', '1004'
+put 'user_interactions', '4_2024-01-01 03:00:00', 'info:action', 'view'
+put 'user_interactions', '4_2024-01-01 03:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '5_2024-01-01 04:00:00', 'info:product_id', '1005'
+put 'user_interactions', '5_2024-01-01 04:00:00', 'info:action', 'search'
+put 'user_interactions', '5_2024-01-01 04:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '6_2024-01-01 05:00:00', 'info:product_id', '1006'
+put 'user_interactions', '6_2024-01-01 05:00:00', 'info:action', 'purchase'
+put 'user_interactions', '6_2024-01-01 05:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '7_2024-01-01 06:00:00', 'info:product_id', '1007'
+put 'user_interactions', '7_2024-01-01 06:00:00', 'info:action', 'view'
+put 'user_interactions', '7_2024-01-01 06:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '8_2024-01-01 07:00:00', 'info:product_id', '1008'
+put 'user_interactions', '8_2024-01-01 07:00:00', 'info:action', 'search'
+put 'user_interactions', '8_2024-01-01 07:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '9_2024-01-01 08:00:00', 'info:product_id', '1009'
+put 'user_interactions', '9_2024-01-01 08:00:00', 'info:action', 'purchase'
+put 'user_interactions', '9_2024-01-01 08:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '10_2024-01-01 09:00:00', 'info:product_id', '1010'
+put 'user_interactions', '10_2024-01-01 09:00:00', 'info:action', 'view'
+put 'user_interactions', '10_2024-01-01 09:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '11_2024-01-01 10:00:00', 'info:product_id', '1011'
+put 'user_interactions', '11_2024-01-01 10:00:00', 'info:action', 'search'
+put 'user_interactions', '11_2024-01-01 10:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '12_2024-01-01 11:00:00', 'info:product_id', '1012'
+put 'user_interactions', '12_2024-01-01 11:00:00', 'info:action', 'purchase'
+put 'user_interactions', '12_2024-01-01 11:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '13_2024-01-01 12:00:00', 'info:product_id', '1013'
+put 'user_interactions', '13_2024-01-01 12:00:00', 'info:action', 'view'
+put 'user_interactions', '13_2024-01-01 12:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '14_2024-01-01 13:00:00', 'info:product_id', '1014'
+put 'user_interactions', '14_2024-01-01 13:00:00', 'info:action', 'search'
+put 'user_interactions', '14_2024-01-01 13:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '15_2024-01-01 14:00:00', 'info:product_id', '1015'
+put 'user_interactions', '15_2024-01-01 14:00:00', 'info:action', 'purchase'
+put 'user_interactions', '15_2024-01-01 14:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '16_2024-01-01 15:00:00', 'info:product_id', '1016'
+put 'user_interactions', '16_2024-01-01 15:00:00', 'info:action', 'view'
+put 'user_interactions', '16_2024-01-01 15:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '17_2024-01-01 16:00:00', 'info:product_id', '1017'
+put 'user_interactions', '17_2024-01-01 16:00:00', 'info:action', 'search'
+put 'user_interactions', '17_2024-01-01 16:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '18_2024-01-01 17:00:00', 'info:product_id', '1018'
+put 'user_interactions', '18_2024-01-01 17:00:00', 'info:action', 'purchase'
+put 'user_interactions', '18_2024-01-01 17:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '19_2024-01-01 18:00:00', 'info:product_id', '1019'
+put 'user_interactions', '19_2024-01-01 18:00:00', 'info:action', 'view'
+put 'user_interactions', '19_2024-01-01 18:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '20_2024-01-01 19:00:00', 'info:product_id', '1020'
+put 'user_interactions', '20_2024-01-01 19:00:00', 'info:action', 'search'
+put 'user_interactions', '20_2024-01-01 19:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '21_2024-01-01 20:00:00', 'info:product_id', '1021'
+put 'user_interactions', '21_2024-01-01 20:00:00', 'info:action', 'purchase'
+put 'user_interactions', '21_2024-01-01 20:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '22_2024-01-01 21:00:00', 'info:product_id', '1022'
+put 'user_interactions', '22_2024-01-01 21:00:00', 'info:action', 'view'
+put 'user_interactions', '22_2024-01-01 21:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '23_2024-01-01 22:00:00', 'info:product_id', '1023'
+put 'user_interactions', '23_2024-01-01 22:00:00', 'info:action', 'search'
+put 'user_interactions', '23_2024-01-01 22:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '24_2024-01-01 23:00:00', 'info:product_id', '1024'
+put 'user_interactions', '24_2024-01-01 23:00:00', 'info:action', 'purchase'
+put 'user_interactions', '24_2024-01-01 23:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '25_2024-01-02 00:00:00', 'info:product_id', '1025'
+put 'user_interactions', '25_2024-01-02 00:00:00', 'info:action', 'view'
+put 'user_interactions', '25_2024-01-02 00:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '26_2024-01-02 01:00:00', 'info:product_id', '1026'
+put 'user_interactions', '26_2024-01-02 01:00:00', 'info:action', 'search'
+put 'user_interactions', '26_2024-01-02 01:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '27_2024-01-02 02:00:00', 'info:product_id', '1027'
+put 'user_interactions', '27_2024-01-02 02:00:00', 'info:action', 'purchase'
+put 'user_interactions', '27_2024-01-02 02:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '28_2024-01-02 03:00:00', 'info:product_id', '1028'
+put 'user_interactions', '28_2024-01-02 03:00:00', 'info:action', 'view'
+put 'user_interactions', '28_2024-01-02 03:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '29_2024-01-02 04:00:00', 'info:product_id', '1029'
+put 'user_interactions', '29_2024-01-02 04:00:00', 'info:action', 'search'
+put 'user_interactions', '29_2024-01-02 04:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '30_2024-01-02 05:00:00', 'info:product_id', '1030'
+put 'user_interactions', '30_2024-01-02 05:00:00', 'info:action', 'purchase'
+put 'user_interactions', '30_2024-01-02 05:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '31_2024-01-02 06:00:00', 'info:product_id', '1031'
+put 'user_interactions', '31_2024-01-02 06:00:00', 'info:action', 'view'
+put 'user_interactions', '31_2024-01-02 06:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '32_2024-01-02 07:00:00', 'info:product_id', '1032'
+put 'user_interactions', '32_2024-01-02 07:00:00', 'info:action', 'search'
+put 'user_interactions', '32_2024-01-02 07:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '33_2024-01-02 08:00:00', 'info:product_id', '1033'
+put 'user_interactions', '33_2024-01-02 08:00:00', 'info:action', 'purchase'
+put 'user_interactions', '33_2024-01-02 08:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '34_2024-01-02 09:00:00', 'info:product_id', '1034'
+put 'user_interactions', '34_2024-01-02 09:00:00', 'info:action', 'view'
+put 'user_interactions', '34_2024-01-02 09:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '35_2024-01-02 10:00:00', 'info:product_id', '1035'
+put 'user_interactions', '35_2024-01-02 10:00:00', 'info:action', 'search'
+put 'user_interactions', '35_2024-01-02 10:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '36_2024-01-02 11:00:00', 'info:product_id', '1036'
+put 'user_interactions', '36_2024-01-02 11:00:00', 'info:action', 'purchase'
+put 'user_interactions', '36_2024-01-02 11:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '37_2024-01-02 12:00:00', 'info:product_id', '1037'
+put 'user_interactions', '37_2024-01-02 12:00:00', 'info:action', 'view'
+put 'user_interactions', '37_2024-01-02 12:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '38_2024-01-02 13:00:00', 'info:product_id', '1038'
+put 'user_interactions', '38_2024-01-02 13:00:00', 'info:action', 'search'
+put 'user_interactions', '38_2024-01-02 13:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '39_2024-01-02 14:00:00', 'info:product_id', '1039'
+put 'user_interactions', '39_2024-01-02 14:00:00', 'info:action', 'purchase'
+put 'user_interactions', '39_2024-01-02 14:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '40_2024-01-02 15:00:00', 'info:product_id', '1040'
+put 'user_interactions', '40_2024-01-02 15:00:00', 'info:action', 'view'
+put 'user_interactions', '40_2024-01-02 15:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '41_2024-01-02 16:00:00', 'info:product_id', '1041'
+put 'user_interactions', '41_2024-01-02 16:00:00', 'info:action', 'search'
+put 'user_interactions', '41_2024-01-02 16:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '42_2024-01-02 17:00:00', 'info:product_id', '1042'
+put 'user_interactions', '42_2024-01-02 17:00:00', 'info:action', 'purchase'
+put 'user_interactions', '42_2024-01-02 17:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '43_2024-01-02 18:00:00', 'info:product_id', '1043'
+put 'user_interactions', '43_2024-01-02 18:00:00', 'info:action', 'view'
+put 'user_interactions', '43_2024-01-02 18:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '44_2024-01-02 19:00:00', 'info:product_id', '1044'
+put 'user_interactions', '44_2024-01-02 19:00:00', 'info:action', 'search'
+put 'user_interactions', '44_2024-01-02 19:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '45_2024-01-02 20:00:00', 'info:product_id', '1045'
+put 'user_interactions', '45_2024-01-02 20:00:00', 'info:action', 'purchase'
+put 'user_interactions', '45_2024-01-02 20:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '46_2024-01-02 21:00:00', 'info:product_id', '1046'
+put 'user_interactions', '46_2024-01-02 21:00:00', 'info:action', 'view'
+put 'user_interactions', '46_2024-01-02 21:00:00', 'info:category', 'Books'
+
+put 'user_interactions', '47_2024-01-02 22:00:00', 'info:product_id', '1047'
+put 'user_interactions', '47_2024-01-02 22:00:00', 'info:action', 'search'
+put 'user_interactions', '47_2024-01-02 22:00:00', 'info:category', 'Clothing'
+
+put 'user_interactions', '48_2024-01-02 23:00:00', 'info:product_id', '1048'
+put 'user_interactions', '48_2024-01-02 23:00:00', 'info:action', 'purchase'
+put 'user_interactions', '48_2024-01-02 23:00:00', 'info:category', 'Home'
+
+put 'user_interactions', '49_2024-01-03 00:00:00', 'info:product_id', '1049'
+put 'user_interactions', '49_2024-01-03 00:00:00', 'info:action', 'view'
+put 'user_interactions', '49_2024-01-03 00:00:00', 'info:category', 'Electronics'
+
+put 'user_interactions', '50_2024-01-03 01:00:00', 'info:product_id', '1050'
+put 'user_interactions', '50_2024-01-03 01:00:00', 'info:action', 'search'
+put 'user_interactions', '50_2024-01-03 01:00:00', 'info:category', 'Books'
+
+
+
+create 'popular_products', 'details'
+
+put 'popular_products', '1001', 'details:category', 'Electronics'
+put 'popular_products', '1001', 'details:product_name', 'Smartphone'
+put 'popular_products', '1001', 'details:total_interactions', '505'
+
+put 'popular_products', '1002', 'details:category', 'Books'
+put 'popular_products', '1002', 'details:product_name', 'Science Fiction Novel'
+put 'popular_products', '1002', 'details:total_interactions', '300'
+
+put 'popular_products', '1003', 'details:category', 'Clothing'
+put 'popular_products', '1003', 'details:product_name', 'Leather Jacket'
+put 'popular_products', '1003', 'details:total_interactions', '400'
+
+put 'popular_products', '1004', 'details:category', 'Home'
+put 'popular_products', '1004', 'details:product_name', 'Vacuum Cleaner'
+put 'popular_products', '1004', 'details:total_interactions', '350'
+
+put 'popular_products', '1005', 'details:category', 'Electronics'
+put 'popular_products', '1005', 'details:product_name', 'Laptop'
+put 'popular_products', '1005', 'details:total_interactions', '450'
+
+put 'popular_products', '1006', 'details:category', 'Books'
+put 'popular_products', '1006', 'details:product_name', 'Mystery Novel'
+put 'popular_products', '1006', 'details:total_interactions', '320'
+
+put 'popular_products', '1007', 'details:category', 'Clothing'
+put 'popular_products', '1007', 'details:product_name', 'Sneakers'
+put 'popular_products', '1007', 'details:total_interactions', '410'
+
+put 'popular_products', '1008', 'details:category', 'Home'
+put 'popular_products', '1008', 'details:product_name', 'Microwave Oven'
+put 'popular_products', '1008', 'details:total_interactions', '380'
+
+put 'popular_products', '1009', 'details:category', 'Electronics'
+put 'popular_products', '1009', 'details:product_name', 'Smartwatch'
+put 'popular_products', '1009', 'details:total_interactions', '500'
+
+put 'popular_products', '1010', 'details:category', 'Books'
+put 'popular_products', '1010', 'details:product_name', 'Romance Novel'
+put 'popular_products', '1010', 'details:total_interactions', '330'
+
+put 'popular_products', '1011', 'details:category', 'Clothing'
+put 'popular_products', '1011', 'details:product_name', 'T-shirt'
+put 'popular_products', '1011', 'details:total_interactions', '425'
+
+put 'popular_products', '1012', 'details:category', 'Home'
+put 'popular_products', '1012', 'details:product_name', 'Dishwasher'
+put 'popular_products', '1012', 'details:total_interactions', '370'
+
+put 'popular_products', '1013', 'details:category', 'Electronics'
+put 'popular_products', '1013', 'details:product_name', 'Tablet'
+put 'popular_products', '1013', 'details:total_interactions', '520'
+
+put 'popular_products', '1014', 'details:category', 'Books'
+put 'popular_products', '1014', 'details:product_name', 'Thriller'
+put 'popular_products', '1014', 'details:total_interactions', '340'
+
+put 'popular_products', '1015', 'details:category', 'Clothing'
+put 'popular_products', '1015', 'details:product_name', 'Dress'
+put 'popular_products', '1015', 'details:total_interactions', '450'
+
+put 'popular_products', '1016', 'details:category', 'Home'
+put 'popular_products', '1016', 'details:product_name', 'Air Conditioner'
+put 'popular_products', '1016', 'details:total_interactions', '390'
+
+put 'popular_products', '1017', 'details:category', 'Electronics'
+put 'popular_products', '1017', 'details:product_name', 'Wireless Earbuds'
+put 'popular_products', '1017', 'details:total_interactions', '530'
+
+put 'popular_products', '1018', 'details:category', 'Books'
+put 'popular_products', '1018', 'details:product_name', 'Historical Fiction'
+put 'popular_products', '1018', 'details:total_interactions', '350'
+
+put 'popular_products', '1019', 'details:category', 'Clothing'
+put 'popular_products', '1019', 'details:product_name', 'Handbag'
+put 'popular_products', '1019', 'details:total_interactions', '470'
+
+put 'popular_products', '1020', 'details:category', 'Home'
+put 'popular_products', '1020', 'details:product_name', 'Refrigerator'
+put 'popular_products', '1020', 'details:total_interactions', '400'
+
+put 'popular_products', '1021', 'details:category', 'Electronics'
+put 'popular_products', '1021', 'details:product_name', 'Bluetooth Headphones'
+put 'popular_products', '1021', 'details:total_interactions', '540'
+
+put 'popular_products', '1022', 'details:category', 'Books'
+put 'popular_products', '1022', 'details:product_name', 'Fantasy Novel'
+put 'popular_products', '1022', 'details:total_interactions', '360'
+
+put 'popular_products', '1023', 'details:category', 'Clothing'
+put 'popular_products', '1023', 'details:product_name', 'Jeans'
+put 'popular_products', '1023', 'details:total_interactions', '490'
+
+put 'popular_products', '1024', 'details:category', 'Home'
+put 'popular_products', '1024', 'details:product_name', 'Toaster'
+put 'popular_products', '1024', 'details:total_interactions', '410'
+
+put 'popular_products', '1025', 'details:category', 'Electronics'
+put 'popular_products', '1025', 'details:product_name', '4K TV'
+put 'popular_products', '1025', 'details:total_interactions', '550'
+
+put 'popular_products', '1026', 'details:category', 'Books'
+put 'popular_products', '1026', 'details:product_name', 'Biography'
+put 'popular_products', '1026', 'details:total_interactions', '370'
+
+put 'popular_products', '1027', 'details:category', 'Clothing'
+put 'popular_products', '1027', 'details:product_name', 'Baseball Cap'
+put 'popular_products', '1027', 'details:total_interactions', '500'
+
+put 'popular_products', '1028', 'details:category', 'Home'
+put 'popular_products', '1028', 'details:product_name', 'Air Fryer'
+put 'popular_products', '1028', 'details:total_interactions', '420'
+
+put 'popular_products', '1029', 'details:category', 'Electronics'
+put 'popular_products', '1029', 'details:product_name', 'Gaming Console'
+put 'popular_products', '1029', 'details:total_interactions', '560'
+
+put 'popular_products', '1030', 'details:category', 'Books'
+put 'popular_products', '1030', 'details:product_name', 'Cookbook'
+put 'popular_products', '1030', 'details:total_interactions', '380'
+
+put 'popular_products', '1031', 'details:category', 'Clothing'
+put 'popular_products', '1031', 'details:product_name', 'Watch'
+put 'popular_products', '1031', 'details:total_interactions', '510'
+
+put 'popular_products', '1032', 'details:category', 'Home'
+put 'popular_products', '1032', 'details:product_name', 'Coffee Maker'
+put 'popular_products', '1032', 'details:total_interactions', '430'
+
+put 'popular_products', '1033', 'details:category', 'Electronics'
+put 'popular_products', '1033', 'details:product_name', 'Digital Camera'
+put 'popular_products', '1033', 'details:total_interactions', '570'
+
+put 'popular_products', '1034', 'details:category', 'Books'
+put 'popular_products', '1034', 'details:product_name', 'Childrens Book'
+put 'popular_products', '1034', 'details:total_interactions', '390'
+
+put 'popular_products', '1035', 'details:category', 'Clothing'
+put 'popular_products', '1035', 'details:product_name', 'Skirt'
+put 'popular_products', '1035', 'details:total_interactions', '540'
+
+put 'popular_products', '1036', 'details:category', 'Home'
+put 'popular_products', '1036', 'details:product_name', 'Blender'
+put 'popular_products', '1036', 'details:total_interactions', '440'
+
+put 'popular_products', '1037', 'details:category', 'Electronics'
+put 'popular_products', '1037', 'details:product_name', 'Smart Speaker'
+put 'popular_products', '1037', 'details:total_interactions', '580'
+
+put 'popular_products', '1038', 'details:category', 'Books'
+put 'popular_products', '1038', 'details:product_name', 'Non-Fiction'
+put 'popular_products', '1038', 'details:total_interactions', '400'
+
+put 'popular_products', '1039', 'details:category', 'Clothing'
+put 'popular_products', '1039', 'details:product_name', 'Jacket'
+put 'popular_products', '1039', 'details:total_interactions', '550'
+
+put 'popular_products', '1040', 'details:category', 'Home'
+put 'popular_products', '1040', 'details:product_name', 'Slow Cooker'
+put 'popular_products', '1040', 'details:total_interactions', '460'
+
+put 'popular_products', '1041', 'details:category', 'Electronics'
+put 'popular_products', '1041', 'details:product_name', 'Fitness Tracker'
+put 'popular_products', '1041', 'details:total_interactions', '600'
+
+put 'popular_products', '1042', 'details:category', 'Books'
+put 'popular_products', '1042', 'details:product_name', 'Graphic Novel'
+put 'popular_products', '1042', 'details:total_interactions', '310'
+
+put 'popular_products', '1043', 'details:category', 'Clothing'
+put 'popular_products', '1043', 'details:product_name', 'Cardigan'
+put 'popular_products', '1043', 'details:total_interactions', '470'
+
+put 'popular_products', '1044', 'details:category', 'Home'
+put 'popular_products', '1044', 'details:product_name', 'Electric Kettle'
+put 'popular_products', '1044', 'details:total_interactions', '390'
+
+put 'popular_products', '1045', 'details:category', 'Electronics'
+put 'popular_products', '1045', 'details:product_name', 'Portable Charger'
+put 'popular_products', '1045', 'details:total_interactions', '540'
+
+put 'popular_products', '1046', 'details:category', 'Books'
+put 'popular_products', '1046', 'details:product_name', 'Self-Help Book'
+put 'popular_products', '1046', 'details:total_interactions', '330'
+
+put 'popular_products', '1047', 'details:category', 'Clothing'
+put 'popular_products', '1047', 'details:product_name', 'Pajama Set'
+put 'popular_products', '1047', 'details:total_interactions', '420'
+
+put 'popular_products', '1048', 'details:category', 'Home'
+put 'popular_products', '1048', 'details:product_name', 'Food Processor'
+put 'popular_products', '1048', 'details:total_interactions', '460'
+
+put 'popular_products', '1049', 'details:category', 'Electronics'
+put 'popular_products', '1049', 'details:product_name', 'Gaming Laptop'
+put 'popular_products', '1049', 'details:total_interactions', '680'
+
+put 'popular_products', '1050', 'details:category', 'Books'
+put 'popular_products', '1050', 'details:product_name', 'Travel Guide'
+put 'popular_products', '1050', 'details:total_interactions', '270'
+
+
+
+
+
+create 'user_purchase_history', 'details'
+
+put 'user_purchase_history', '1', 'details:user_id', '1'
+put 'user_purchase_history', '1', 'details:purchase_time', '2024-01-01 08:00:00'
+put 'user_purchase_history', '1', 'details:product_id', '1001'
+put 'user_purchase_history', '1', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '2', 'details:user_id', '2'
+put 'user_purchase_history', '2', 'details:purchase_time', '2024-01-02 09:15:30'
+put 'user_purchase_history', '2', 'details:product_id', '1002'
+put 'user_purchase_history', '2', 'details:category', 'Books'
+
+put 'user_purchase_history', '3', 'details:user_id', '3'
+put 'user_purchase_history', '3', 'details:purchase_time', '2024-01-03 10:30:45'
+put 'user_purchase_history', '3', 'details:product_id', '1003'
+put 'user_purchase_history', '3', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '4', 'details:user_id', '4'
+put 'user_purchase_history', '4', 'details:purchase_time', '2024-01-04 11:45:00'
+put 'user_purchase_history', '4', 'details:product_id', '1004'
+put 'user_purchase_history', '4', 'details:category', 'Home'
+
+put 'user_purchase_history', '5', 'details:user_id', '5'
+put 'user_purchase_history', '5', 'details:purchase_time', '2024-01-05 12:00:00'
+put 'user_purchase_history', '5', 'details:product_id', '1005'
+put 'user_purchase_history', '5', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '6', 'details:user_id', '6'
+put 'user_purchase_history', '6', 'details:purchase_time', '2024-01-06 13:15:00'
+put 'user_purchase_history', '6', 'details:product_id', '1006'
+put 'user_purchase_history', '6', 'details:category', 'Books'
+
+put 'user_purchase_history', '7', 'details:user_id', '7'
+put 'user_purchase_history', '7', 'details:purchase_time', '2024-01-07 14:30:00'
+put 'user_purchase_history', '7', 'details:product_id', '1007'
+put 'user_purchase_history', '7', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '8', 'details:user_id', '8'
+put 'user_purchase_history', '8', 'details:purchase_time', '2024-01-08 15:45:00'
+put 'user_purchase_history', '8', 'details:product_id', '1008'
+put 'user_purchase_history', '8', 'details:category', 'Home'
+
+put 'user_purchase_history', '9', 'details:user_id', '9'
+put 'user_purchase_history', '9', 'details:purchase_time', '2024-01-09 16:00:00'
+put 'user_purchase_history', '9', 'details:product_id', '1009'
+put 'user_purchase_history', '9', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '10', 'details:user_id', '10'
+put 'user_purchase_history', '10', 'details:purchase_time', '2024-01-10 17:15:00'
+put 'user_purchase_history', '10', 'details:product_id', '1010'
+put 'user_purchase_history', '10', 'details:category', 'Books'
+
+put 'user_purchase_history', '11', 'details:user_id', '11'
+put 'user_purchase_history', '11', 'details:purchase_time', '2024-01-11 18:30:00'
+put 'user_purchase_history', '11', 'details:product_id', '1011'
+put 'user_purchase_history', '11', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '12', 'details:user_id', '12'
+put 'user_purchase_history', '12', 'details:purchase_time', '2024-01-12 19:45:00'
+put 'user_purchase_history', '12', 'details:product_id', '1012'
+put 'user_purchase_history', '12', 'details:category', 'Home'
+
+put 'user_purchase_history', '13', 'details:user_id', '13'
+put 'user_purchase_history', '13', 'details:purchase_time', '2024-01-13 20:00:00'
+put 'user_purchase_history', '13', 'details:product_id', '1013'
+put 'user_purchase_history', '13', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '14', 'details:user_id', '14'
+put 'user_purchase_history', '14', 'details:purchase_time', '2024-01-14 21:15:00'
+put 'user_purchase_history', '14', 'details:product_id', '1014'
+put 'user_purchase_history', '14', 'details:category', 'Books'
+
+put 'user_purchase_history', '15', 'details:user_id', '15'
+put 'user_purchase_history', '15', 'details:purchase_time', '2024-01-15 22:30:00'
+put 'user_purchase_history', '15', 'details:product_id', '1015'
+put 'user_purchase_history', '15', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '16', 'details:user_id', '16'
+put 'user_purchase_history', '16', 'details:purchase_time', '2024-01-16 23:45:00'
+put 'user_purchase_history', '16', 'details:product_id', '1016'
+put 'user_purchase_history', '16', 'details:category', 'Home'
+
+put 'user_purchase_history', '17', 'details:user_id', '17'
+put 'user_purchase_history', '17', 'details:purchase_time', '2024-01-17 08:00:00'
+put 'user_purchase_history', '17', 'details:product_id', '1017'
+put 'user_purchase_history', '17', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '18', 'details:user_id', '18'
+put 'user_purchase_history', '18', 'details:purchase_time', '2024-01-18 09:15:30'
+put 'user_purchase_history', '18', 'details:product_id', '1018'
+put 'user_purchase_history', '18', 'details:category', 'Books'
+
+put 'user_purchase_history', '19', 'details:user_id', '19'
+put 'user_purchase_history', '19', 'details:purchase_time', '2024-01-19 10:30:45'
+put 'user_purchase_history', '19', 'details:product_id', '1019'
+put 'user_purchase_history', '19', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '20', 'details:user_id', '20'
+put 'user_purchase_history', '20', 'details:purchase_time', '2024-01-20 11:45:00'
+put 'user_purchase_history', '20', 'details:product_id', '1020'
+put 'user_purchase_history', '20', 'details:category', 'Home'
+
+put 'user_purchase_history', '21', 'details:user_id', '21'
+put 'user_purchase_history', '21', 'details:purchase_time', '2024-01-21 12:00:00'
+put 'user_purchase_history', '21', 'details:product_id', '1021'
+put 'user_purchase_history', '21', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '22', 'details:user_id', '22'
+put 'user_purchase_history', '22', 'details:purchase_time', '2024-01-22 13:15:00'
+put 'user_purchase_history', '22', 'details:product_id', '1022'
+put 'user_purchase_history', '22', 'details:category', 'Books'
+
+put 'user_purchase_history', '23', 'details:user_id', '23'
+put 'user_purchase_history', '23', 'details:purchase_time', '2024-01-23 14:30:00'
+put 'user_purchase_history', '23', 'details:product_id', '1023'
+put 'user_purchase_history', '23', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '24', 'details:user_id', '24'
+put 'user_purchase_history', '24', 'details:purchase_time', '2024-01-24 15:45:00'
+put 'user_purchase_history', '24', 'details:product_id', '1024'
+put 'user_purchase_history', '24', 'details:category', 'Home'
+
+put 'user_purchase_history', '25', 'details:user_id', '25'
+put 'user_purchase_history', '25', 'details:purchase_time', '2024-01-25 16:00:00'
+put 'user_purchase_history', '25', 'details:product_id', '1025'
+put 'user_purchase_history', '25', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '26', 'details:user_id', '26'
+put 'user_purchase_history', '26', 'details:purchase_time', '2024-01-26 17:15:00'
+put 'user_purchase_history', '26', 'details:product_id', '1026'
+put 'user_purchase_history', '26', 'details:category', 'Books'
+
+put 'user_purchase_history', '27', 'details:user_id', '27'
+put 'user_purchase_history', '27', 'details:purchase_time', '2024-01-27 18:30:00'
+put 'user_purchase_history', '27', 'details:product_id', '1027'
+put 'user_purchase_history', '27', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '28', 'details:user_id', '28'
+put 'user_purchase_history', '28', 'details:purchase_time', '2024-01-28 19:45:00'
+put 'user_purchase_history', '28', 'details:product_id', '1028'
+put 'user_purchase_history', '28', 'details:category', 'Home'
+
+put 'user_purchase_history', '29', 'details:user_id', '29'
+put 'user_purchase_history', '29', 'details:purchase_time', '2024-01-29 20:00:00'
+put 'user_purchase_history', '29', 'details:product_id', '1029'
+put 'user_purchase_history', '29', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '30', 'details:user_id', '30'
+put 'user_purchase_history', '30', 'details:purchase_time', '2024-01-30 21:15:00'
+put 'user_purchase_history', '30', 'details:product_id', '1030'
+put 'user_purchase_history', '30', 'details:category', 'Books'
+
+put 'user_purchase_history', '31', 'details:user_id', '31'
+put 'user_purchase_history', '31', 'details:purchase_time', '2024-01-31 22:30:00'
+put 'user_purchase_history', '31', 'details:product_id', '1031'
+put 'user_purchase_history', '31', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '32', 'details:user_id', '32'
+put 'user_purchase_history', '32', 'details:purchase_time', '2024-02-01 23:45:00'
+put 'user_purchase_history', '32', 'details:product_id', '1032'
+put 'user_purchase_history', '32', 'details:category', 'Home'
+
+put 'user_purchase_history', '33', 'details:user_id', '33'
+put 'user_purchase_history', '33', 'details:purchase_time', '2024-02-02 08:00:00'
+put 'user_purchase_history', '33', 'details:product_id', '1033'
+put 'user_purchase_history', '33', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '34', 'details:user_id', '34'
+put 'user_purchase_history', '34', 'details:purchase_time', '2024-02-03 09:15:30'
+put 'user_purchase_history', '34', 'details:product_id', '1034'
+put 'user_purchase_history', '34', 'details:category', 'Books'
+
+put 'user_purchase_history', '35', 'details:user_id', '35'
+put 'user_purchase_history', '35', 'details:purchase_time', '2024-02-04 10:30:45'
+put 'user_purchase_history', '35', 'details:product_id', '1035'
+put 'user_purchase_history', '35', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '36', 'details:user_id', '36'
+put 'user_purchase_history', '36', 'details:purchase_time', '2024-02-05 11:45:00'
+put 'user_purchase_history', '36', 'details:product_id', '1036'
+put 'user_purchase_history', '36', 'details:category', 'Home'
+
+put 'user_purchase_history', '37', 'details:user_id', '37'
+put 'user_purchase_history', '37', 'details:purchase_time', '2024-02-06 12:00:00'
+put 'user_purchase_history', '37', 'details:product_id', '1037'
+put 'user_purchase_history', '37', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '38', 'details:user_id', '38'
+put 'user_purchase_history', '38', 'details:purchase_time', '2024-02-07 13:15:00'
+put 'user_purchase_history', '38', 'details:product_id', '1038'
+put 'user_purchase_history', '38', 'details:category', 'Books'
+
+put 'user_purchase_history', '39', 'details:user_id', '39'
+put 'user_purchase_history', '39', 'details:purchase_time', '2024-02-08 14:30:00'
+put 'user_purchase_history', '39', 'details:product_id', '1039'
+put 'user_purchase_history', '39', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '40', 'details:user_id', '40'
+put 'user_purchase_history', '40', 'details:purchase_time', '2024-02-09 15:45:00'
+put 'user_purchase_history', '40', 'details:product_id', '1040'
+put 'user_purchase_history', '40', 'details:category', 'Home'
+
+put 'user_purchase_history', '41', 'details:user_id', '41'
+put 'user_purchase_history', '41', 'details:purchase_time', '2024-02-10 16:00:00'
+put 'user_purchase_history', '41', 'details:product_id', '1041'
+put 'user_purchase_history', '41', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '42', 'details:user_id', '42'
+put 'user_purchase_history', '42', 'details:purchase_time', '2024-02-11 17:15:00'
+put 'user_purchase_history', '42', 'details:product_id', '1042'
+put 'user_purchase_history', '42', 'details:category', 'Books'
+
+put 'user_purchase_history', '43', 'details:user_id', '43'
+put 'user_purchase_history', '43', 'details:purchase_time', '2024-02-12 18:30:00'
+put 'user_purchase_history', '43', 'details:product_id', '1043'
+put 'user_purchase_history', '43', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '44', 'details:user_id', '44'
+put 'user_purchase_history', '44', 'details:purchase_time', '2024-02-13 19:45:00'
+put 'user_purchase_history', '44', 'details:product_id', '1044'
+put 'user_purchase_history', '44', 'details:category', 'Home'
+
+put 'user_purchase_history', '45', 'details:user_id', '45'
+put 'user_purchase_history', '45', 'details:purchase_time', '2024-02-14 20:00:00'
+put 'user_purchase_history', '45', 'details:product_id', '1045'
+put 'user_purchase_history', '45', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '46', 'details:user_id', '46'
+put 'user_purchase_history', '46', 'details:purchase_time', '2024-02-15 21:15:00'
+put 'user_purchase_history', '46', 'details:product_id', '1046'
+put 'user_purchase_history', '46', 'details:category', 'Books'
+
+put 'user_purchase_history', '47', 'details:user_id', '47'
+put 'user_purchase_history', '47', 'details:purchase_time', '2024-02-16 22:30:00'
+put 'user_purchase_history', '47', 'details:product_id', '1047'
+put 'user_purchase_history', '47', 'details:category', 'Clothing'
+
+put 'user_purchase_history', '48', 'details:user_id', '48'
+put 'user_purchase_history', '48', 'details:purchase_time', '2024-02-17 23:45:00'
+put 'user_purchase_history', '48', 'details:product_id', '1048'
+put 'user_purchase_history', '48', 'details:category', 'Home'
+
+put 'user_purchase_history', '49', 'details:user_id', '49'
+put 'user_purchase_history', '49', 'details:purchase_time', '2024-02-18 08:00:00'
+put 'user_purchase_history', '49', 'details:product_id', '1049'
+put 'user_purchase_history', '49', 'details:category', 'Electronics'
+
+put 'user_purchase_history', '50', 'details:user_id', '50'
+put 'user_purchase_history', '50', 'details:purchase_time', '2024-02-19 09:15:30'
+put 'user_purchase_history', '50', 'details:product_id', '1050'
+put 'user_purchase_history', '50', 'details:category', 'Books'
+
+
+
+
+
+
+create 'product_co_purchase', 'details'
+
+
+put 'product_co_purchase', '1001', 'details:co_purchased_product_id', '2001'
+put 'product_co_purchase', '1001', 'details:co_purchased_product_name', 'Wireless Mouse'
+put 'product_co_purchase', '1001', 'details:total_purchases', '500'
+
+put 'product_co_purchase', '1002', 'details:co_purchased_product_id', '2002'
+put 'product_co_purchase', '1002', 'details:co_purchased_product_name', 'Laptop Stand'
+put 'product_co_purchase', '1002', 'details:total_purchases', '450'
+
+put 'product_co_purchase', '1003', 'details:co_purchased_product_id', '2003'
+put 'product_co_purchase', '1003', 'details:co_purchased_product_name', 'Bluetooth Keyboard'
+put 'product_co_purchase', '1003', 'details:total_purchases', '400'
+
+put 'product_co_purchase', '1004', 'details:co_purchased_product_id', '2004'
+put 'product_co_purchase', '1004', 'details:co_purchased_product_name', 'USB-C Hub'
+put 'product_co_purchase', '1004', 'details:total_purchases', '380'
+
+put 'product_co_purchase', '1005', 'details:co_purchased_product_id', '2005'
+put 'product_co_purchase', '1005', 'details:co_purchased_product_name', 'Noise Cancelling Headphones'
+put 'product_co_purchase', '1005', 'details:total_purchases', '360'
+
+put 'product_co_purchase', '1006', 'details:co_purchased_product_id', '2006'
+put 'product_co_purchase', '1006', 'details:co_purchased_product_name', 'Laptop Sleeve'
+put 'product_co_purchase', '1006', 'details:total_purchases', '340'
+
+put 'product_co_purchase', '1007', 'details:co_purchased_product_id', '2007'
+put 'product_co_purchase', '1007', 'details:co_purchased_product_name', 'Smartphone Screen Protector'
+put 'product_co_purchase', '1007', 'details:total_purchases', '330'
+
+put 'product_co_purchase', '1008', 'details:co_purchased_product_id', '2008'
+put 'product_co_purchase', '1008', 'details:co_purchased_product_name', 'Portable Charger'
+put 'product_co_purchase', '1008', 'details:total_purchases', '320'
+
+put 'product_co_purchase', '1009', 'details:co_purchased_product_id', '2009'
+put 'product_co_purchase', '1009', 'details:co_purchased_product_name', 'HDMI Cable'
+put 'product_co_purchase', '1009', 'details:total_purchases', '310'
+
+put 'product_co_purchase', '1010', 'details:co_purchased_product_id', '2010'
+put 'product_co_purchase', '1010', 'details:co_purchased_product_name', 'External Hard Drive'
+put 'product_co_purchase', '1010', 'details:total_purchases', '300'
+
+put 'product_co_purchase', '1011', 'details:co_purchased_product_id', '2011'
+put 'product_co_purchase', '1011', 'details:co_purchased_product_name', 'Wireless Earbuds'
+put 'product_co_purchase', '1011', 'details:total_purchases', '290'
+
+put 'product_co_purchase', '1012', 'details:co_purchased_product_id', '2012'
+put 'product_co_purchase', '1012', 'details:co_purchased_product_name', 'Smartwatch Band'
+put 'product_co_purchase', '1012', 'details:total_purchases', '280'
+
+put 'product_co_purchase', '1013', 'details:co_purchased_product_id', '2013'
+put 'product_co_purchase', '1013', 'details:co_purchased_product_name', 'Fitness Tracker'
+put 'product_co_purchase', '1013', 'details:total_purchases', '270'
+
+put 'product_co_purchase', '1014', 'details:co_purchased_product_id', '2014'
+put 'product_co_purchase', '1014', 'details:co_purchased_product_name', 'Tablet Case'
+put 'product_co_purchase', '1014', 'details:total_purchases', '260'
+
+put 'product_co_purchase', '1015', 'details:co_purchased_product_id', '2015'
+put 'product_co_purchase', '1015', 'details:co_purchased_product_name', 'Stylus Pen'
+put 'product_co_purchase', '1015', 'details:total_purchases', '250'
+
+put 'product_co_purchase', '1016', 'details:co_purchased_product_id', '2016'
+put 'product_co_purchase', '1016', 'details:co_purchased_product_name', 'Gaming Mouse Pad'
+put 'product_co_purchase', '1016', 'details:total_purchases', '240'
+
+put 'product_co_purchase', '1017', 'details:co_purchased_product_id', '2017'
+put 'product_co_purchase', '1017', 'details:co_purchased_product_name', 'Smartphone Holder'
+put 'product_co_purchase', '1017', 'details:total_purchases', '230'
+
+put 'product_co_purchase', '1018', 'details:co_purchased_product_id', '2018'
+put 'product_co_purchase', '1018', 'details:co_purchased_product_name', 'Bluetooth Speaker'
+put 'product_co_purchase', '1018', 'details:total_purchases', '220'
+
+put 'product_co_purchase', '1019', 'details:co_purchased_product_id', '2019'
+put 'product_co_purchase', '1019', 'details:co_purchased_product_name', 'Wireless Charger'
+put 'product_co_purchase', '1019', 'details:total_purchases', '210'
+
+put 'product_co_purchase', '1020', 'details:co_purchased_product_id', '2020'
+put 'product_co_purchase', '1020', 'details:co_purchased_product_name', 'Memory Card'
+put 'product_co_purchase', '1020', 'details:total_purchases', '200'
+
+put 'product_co_purchase', '1021', 'details:co_purchased_product_id', '2021'
+put 'product_co_purchase', '1021', 'details:co_purchased_product_name', 'Laptop Cooling Pad'
+put 'product_co_purchase', '1021', 'details:total_purchases', '190'
+
+put 'product_co_purchase', '1022', 'details:co_purchased_product_id', '2022'
+put 'product_co_purchase', '1022', 'details:co_purchased_product_name', 'USB Flash Drive'
+put 'product_co_purchase', '1022', 'details:total_purchases', '180'
+
+put 'product_co_purchase', '1023', 'details:co_purchased_product_id', '2023'
+put 'product_co_purchase', '1023', 'details:co_purchased_product_name', 'Smart Thermostat'
+put 'product_co_purchase', '1023', 'details:total_purchases', '170'
+
+put 'product_co_purchase', '1024', 'details:co_purchased_product_id', '2024'
+put 'product_co_purchase', '1024', 'details:co_purchased_product_name', 'Action Camera'
+put 'product_co_purchase', '1024', 'details:total_purchases', '160'
+
+put 'product_co_purchase', '1025', 'details:co_purchased_product_id', '2025'
+put 'product_co_purchase', '1025', 'details:co_purchased_product_name', 'Smart Light Bulb'
+put 'product_co_purchase', '1025', 'details:total_purchases', '150'
+
+put 'product_co_purchase', '1026', 'details:co_purchased_product_id', '2026'
+put 'product_co_purchase', '1026', 'details:co_purchased_product_name', 'Home Security Camera'
+put 'product_co_purchase', '1026', 'details:total_purchases', '140'
+
+put 'product_co_purchase', '1027', 'details:co_purchased_product_id', '2027'
+put 'product_co_purchase', '1027', 'details:co_purchased_product_name', 'Video Doorbell'
+put 'product_co_purchase', '1027', 'details:total_purchases', '130'
+
+put 'product_co_purchase', '1028', 'details:co_purchased_product_id', '2028'
+put 'product_co_purchase', '1028', 'details:co_purchased_product_name', 'Robot Vacuum'
+put 'product_co_purchase', '1028', 'details:total_purchases', '120'
+
+put 'product_co_purchase', '1029', 'details:co_purchased_product_id', '2029'
+put 'product_co_purchase', '1029', 'details:co_purchased_product_name', 'Smart Plug'
+put 'product_co_purchase', '1029', 'details:total_purchases', '110'
+
+put 'product_co_purchase', '1030', 'details:co_purchased_product_id', '2030'
+put 'product_co_purchase', '1030', 'details:co_purchased_product_name', 'Smart Lock'
+put 'product_co_purchase', '1030', 'details:total_purchases', '100'
+
+put 'product_co_purchase', '1031', 'details:co_purchased_product_id', '2031'
+put 'product_co_purchase', '1031', 'details:co_purchased_product_name', 'Smart Doorbell'
+put 'product_co_purchase', '1031', 'details:total_purchases', '95'
+
+put 'product_co_purchase', '1032', 'details:co_purchased_product_id', '2032'
+put 'product_co_purchase', '1032', 'details:co_purchased_product_name', 'Wi-Fi Range Extender'
+put 'product_co_purchase', '1032', 'details:total_purchases', '90'
+
+put 'product_co_purchase', '1033', 'details:co_purchased_product_id', '2033'
+put 'product_co_purchase', '1033', 'details:co_purchased_product_name', 'Smart Air Fryer'
+put 'product_co_purchase', '1033', 'details:total_purchases', '85'
+
+put 'product_co_purchase', '1034', 'details:co_purchased_product_id', '2034'
+put 'product_co_purchase', '1034', 'details:co_purchased_product_name', 'Smart Induction Cooktop'
+put 'product_co_purchase', '1034', 'details:total_purchases', '80'
+
+put 'product_co_purchase', '1035', 'details:co_purchased_product_id', '2035'
+put 'product_co_purchase', '1035', 'details:co_purchased_product_name', 'Electric Kettle'
+put 'product_co_purchase', '1035', 'details:total_purchases', '75'
+
+put 'product_co_purchase', '1036', 'details:co_purchased_product_id', '2036'
+put 'product_co_purchase', '1036', 'details:co_purchased_product_name', 'Instant Pot'
+put 'product_co_purchase', '1036', 'details:total_purchases', '70'
+
+put 'product_co_purchase', '1037', 'details:co_purchased_product_id', '2037'
+put 'product_co_purchase', '1037', 'details:co_purchased_product_name', 'Electric Grill'
+put 'product_co_purchase', '1037', 'details:total_purchases', '65'
+
+put 'product_co_purchase', '1038', 'details:co_purchased_product_id', '2038'
+put 'product_co_purchase', '1038', 'details:co_purchased_product_name', 'Food Processor'
+put 'product_co_purchase', '1038', 'details:total_purchases', '60'
+
+put 'product_co_purchase', '1039', 'details:co_purchased_product_id', '2039'
+put 'product_co_purchase', '1039', 'details:co_purchased_product_name', 'Blender'
+put 'product_co_purchase', '1039', 'details:total_purchases', '55'
+
+put 'product_co_purchase', '1040', 'details:co_purchased_product_id', '2040'
+put 'product_co_purchase', '1040', 'details:co_purchased_product_name', 'Electric Toothbrush'
+put 'product_co_purchase', '1040', 'details:total_purchases', '50'
+
+put 'product_co_purchase', '1041', 'details:co_purchased_product_id', '2041'
+put 'product_co_purchase', '1041', 'details:co_purchased_product_name', 'Smart Air Purifier'
+put 'product_co_purchase', '1041', 'details:total_purchases', '45'
+
+put 'product_co_purchase', '1042', 'details:co_purchased_product_id', '2042'
+put 'product_co_purchase', '1042', 'details:co_purchased_product_name', 'Smart Water Bottle'
+put 'product_co_purchase', '1042', 'details:total_purchases', '40'
+
+put 'product_co_purchase', '1043', 'details:co_purchased_product_id', '2043'
+put 'product_co_purchase', '1043', 'details:co_purchased_product_name', 'Smart Plant Monitor'
+put 'product_co_purchase', '1043', 'details:total_purchases', '35'
+
+put 'product_co_purchase', '1044', 'details:co_purchased_product_id', '2044'
+put 'product_co_purchase', '1044', 'details:co_purchased_product_name', 'Home Automation Hub'
+put 'product_co_purchase', '1044', 'details:total_purchases', '30'
+
+put 'product_co_purchase', '1045', 'details:co_purchased_product_id', '2045'
+put 'product_co_purchase', '1045', 'details:co_purchased_product_name', 'Smart Refrigerator'
+put 'product_co_purchase', '1045', 'details:total_purchases', '25'
+
+put 'product_co_purchase', '1046', 'details:co_purchased_product_id', '2046'
+put 'product_co_purchase', '1046', 'details:co_purchased_product_name', 'Smart Oven'
+put 'product_co_purchase', '1046', 'details:total_purchases', '20'
+
+put 'product_co_purchase', '1047', 'details:co_purchased_product_id', '2047'
+put 'product_co_purchase', '1047', 'details:co_purchased_product_name', 'Smart Coffee Maker'
+put 'product_co_purchase', '1047', 'details:total_purchases', '15'
+
+put 'product_co_purchase', '1048', 'details:co_purchased_product_id', '2048'
+put 'product_co_purchase', '1048', 'details:co_purchased_product_name', 'Smart Slow Cooker'
+put 'product_co_purchase', '1048', 'details:total_purchases', '10'
+
+put 'product_co_purchase', '1049', 'details:co_purchased_product_id', '2049'
+put 'product_co_purchase', '1049', 'details:co_purchased_product_name', 'Smart Food Scale'
+put 'product_co_purchase', '1049', 'details:total_purchases', '5'
+
+put 'product_co_purchase', '1050', 'details:co_purchased_product_id', '2050'
+put 'product_co_purchase', '1050', 'details:co_purchased_product_name', 'Smart Electric Grill'
+put 'product_co_purchase', '1050', 'details:total_purchases', '2'
+
+
+
+create 'user_viewed_products', 'details'
+
+put 'user_viewed_products', 'user_1', 'details:view_time', '2024-01-01 08:00:00'
+put 'user_viewed_products', 'user_1', 'details:product_id', '1001'
+put 'user_viewed_products', 'user_1', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_2', 'details:view_time', '2024-01-02 09:15:30'
+put 'user_viewed_products', 'user_2', 'details:product_id', '1002'
+put 'user_viewed_products', 'user_2', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_3', 'details:view_time', '2024-01-03 10:30:45'
+put 'user_viewed_products', 'user_3', 'details:product_id', '1003'
+put 'user_viewed_products', 'user_3', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_4', 'details:view_time', '2024-01-04 11:45:00'
+put 'user_viewed_products', 'user_4', 'details:product_id', '1004'
+put 'user_viewed_products', 'user_4', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_5', 'details:view_time', '2024-01-05 12:00:00'
+put 'user_viewed_products', 'user_5', 'details:product_id', '1005'
+put 'user_viewed_products', 'user_5', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_6', 'details:view_time', '2024-01-06 13:15:00'
+put 'user_viewed_products', 'user_6', 'details:product_id', '1006'
+put 'user_viewed_products', 'user_6', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_7', 'details:view_time', '2024-01-07 14:30:00'
+put 'user_viewed_products', 'user_7', 'details:product_id', '1007'
+put 'user_viewed_products', 'user_7', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_8', 'details:view_time', '2024-01-08 15:45:00'
+put 'user_viewed_products', 'user_8', 'details:product_id', '1008'
+put 'user_viewed_products', 'user_8', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_9', 'details:view_time', '2024-01-09 16:00:00'
+put 'user_viewed_products', 'user_9', 'details:product_id', '1009'
+put 'user_viewed_products', 'user_9', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_10', 'details:view_time', '2024-01-10 17:15:00'
+put 'user_viewed_products', 'user_10', 'details:product_id', '1010'
+put 'user_viewed_products', 'user_10', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_11', 'details:view_time', '2024-01-11 18:30:00'
+put 'user_viewed_products', 'user_11', 'details:product_id', '1011'
+put 'user_viewed_products', 'user_11', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_12', 'details:view_time', '2024-01-12 19:45:00'
+put 'user_viewed_products', 'user_12', 'details:product_id', '1012'
+put 'user_viewed_products', 'user_12', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_13', 'details:view_time', '2024-01-13 20:00:00'
+put 'user_viewed_products', 'user_13', 'details:product_id', '1013'
+put 'user_viewed_products', 'user_13', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_14', 'details:view_time', '2024-01-14 21:15:00'
+put 'user_viewed_products', 'user_14', 'details:product_id', '1014'
+put 'user_viewed_products', 'user_14', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_15', 'details:view_time', '2024-01-15 22:30:00'
+put 'user_viewed_products', 'user_15', 'details:product_id', '1015'
+put 'user_viewed_products', 'user_15', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_16', 'details:view_time', '2024-01-16 23:45:00'
+put 'user_viewed_products', 'user_16', 'details:product_id', '1016'
+put 'user_viewed_products', 'user_16', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_17', 'details:view_time', '2024-01-17 08:00:00'
+put 'user_viewed_products', 'user_17', 'details:product_id', '1017'
+put 'user_viewed_products', 'user_17', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_18', 'details:view_time', '2024-01-18 09:15:00'
+put 'user_viewed_products', 'user_18', 'details:product_id', '1018'
+put 'user_viewed_products', 'user_18', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_19', 'details:view_time', '2024-01-19 10:30:00'
+put 'user_viewed_products', 'user_19', 'details:product_id', '1019'
+put 'user_viewed_products', 'user_19', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_20', 'details:view_time', '2024-01-20 11:45:00'
+put 'user_viewed_products', 'user_20', 'details:product_id', '1020'
+put 'user_viewed_products', 'user_20', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_21', 'details:view_time', '2024-01-21 12:00:00'
+put 'user_viewed_products', 'user_21', 'details:product_id', '1021'
+put 'user_viewed_products', 'user_21', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_22', 'details:view_time', '2024-01-22 13:15:00'
+put 'user_viewed_products', 'user_22', 'details:product_id', '1022'
+put 'user_viewed_products', 'user_22', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_23', 'details:view_time', '2024-01-23 14:30:00'
+put 'user_viewed_products', 'user_23', 'details:product_id', '1023'
+put 'user_viewed_products', 'user_23', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_24', 'details:view_time', '2024-01-24 15:45:00'
+put 'user_viewed_products', 'user_24', 'details:product_id', '1024'
+put 'user_viewed_products', 'user_24', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_25', 'details:view_time', '2024-01-25 16:00:00'
+put 'user_viewed_products', 'user_25', 'details:product_id', '1025'
+put 'user_viewed_products', 'user_25', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_26', 'details:view_time', '2024-01-26 17:15:00'
+put 'user_viewed_products', 'user_26', 'details:product_id', '1026'
+put 'user_viewed_products', 'user_26', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_27', 'details:view_time', '2024-01-27 18:30:00'
+put 'user_viewed_products', 'user_27', 'details:product_id', '1027'
+put 'user_viewed_products', 'user_27', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_28', 'details:view_time', '2024-01-28 19:45:00'
+put 'user_viewed_products', 'user_28', 'details:product_id', '1028'
+put 'user_viewed_products', 'user_28', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_29', 'details:view_time', '2024-01-29 20:00:00'
+put 'user_viewed_products', 'user_29', 'details:product_id', '1029'
+put 'user_viewed_products', 'user_29', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_30', 'details:view_time', '2024-01-30 21:15:00'
+put 'user_viewed_products', 'user_30', 'details:product_id', '1030'
+put 'user_viewed_products', 'user_30', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_31', 'details:view_time', '2024-01-31 22:30:00'
+put 'user_viewed_products', 'user_31', 'details:product_id', '1031'
+put 'user_viewed_products', 'user_31', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_32', 'details:view_time', '2024-02-01 23:45:00'
+put 'user_viewed_products', 'user_32', 'details:product_id', '1032'
+put 'user_viewed_products', 'user_32', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_33', 'details:view_time', '2024-02-02 08:00:00'
+put 'user_viewed_products', 'user_33', 'details:product_id', '1033'
+put 'user_viewed_products', 'user_33', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_34', 'details:view_time', '2024-02-03 09:15:00'
+put 'user_viewed_products', 'user_34', 'details:product_id', '1034'
+put 'user_viewed_products', 'user_34', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_35', 'details:view_time', '2024-02-04 10:30:00'
+put 'user_viewed_products', 'user_35', 'details:product_id', '1035'
+put 'user_viewed_products', 'user_35', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_36', 'details:view_time', '2024-02-05 11:45:00'
+put 'user_viewed_products', 'user_36', 'details:product_id', '1036'
+put 'user_viewed_products', 'user_36', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_37', 'details:view_time', '2024-02-06 12:00:00'
+put 'user_viewed_products', 'user_37', 'details:product_id', '1037'
+put 'user_viewed_products', 'user_37', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_38', 'details:view_time', '2024-02-07 13:15:00'
+put 'user_viewed_products', 'user_38', 'details:product_id', '1038'
+put 'user_viewed_products', 'user_38', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_39', 'details:view_time', '2024-02-08 14:30:00'
+put 'user_viewed_products', 'user_39', 'details:product_id', '1039'
+put 'user_viewed_products', 'user_39', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_40', 'details:view_time', '2024-02-09 15:45:00'
+put 'user_viewed_products', 'user_40', 'details:product_id', '1040'
+put 'user_viewed_products', 'user_40', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_41', 'details:view_time', '2024-02-10 16:00:00'
+put 'user_viewed_products', 'user_41', 'details:product_id', '1041'
+put 'user_viewed_products', 'user_41', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_42', 'details:view_time', '2024-02-11 17:15:00'
+put 'user_viewed_products', 'user_42', 'details:product_id', '1042'
+put 'user_viewed_products', 'user_42', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_43', 'details:view_time', '2024-02-12 18:30:00'
+put 'user_viewed_products', 'user_43', 'details:product_id', '1043'
+put 'user_viewed_products', 'user_43', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_44', 'details:view_time', '2024-02-13 19:45:00'
+put 'user_viewed_products', 'user_44', 'details:product_id', '1044'
+put 'user_viewed_products', 'user_44', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_45', 'details:view_time', '2024-02-14 20:00:00'
+put 'user_viewed_products', 'user_45', 'details:product_id', '1045'
+put 'user_viewed_products', 'user_45', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_46', 'details:view_time', '2024-02-15 21:15:00'
+put 'user_viewed_products', 'user_46', 'details:product_id', '1046'
+put 'user_viewed_products', 'user_46', 'details:category', 'Books'
+
+put 'user_viewed_products', 'user_47', 'details:view_time', '2024-02-16 22:30:00'
+put 'user_viewed_products', 'user_47', 'details:product_id', '1047'
+put 'user_viewed_products', 'user_47', 'details:category', 'Clothing'
+
+put 'user_viewed_products', 'user_48', 'details:view_time', '2024-02-17 23:45:00'
+put 'user_viewed_products', 'user_48', 'details:product_id', '1048'
+put 'user_viewed_products', 'user_48', 'details:category', 'Home'
+
+put 'user_viewed_products', 'user_49', 'details:view_time', '2024-02-18 08:00:00'
+put 'user_viewed_products', 'user_49', 'details:product_id', '1049'
+put 'user_viewed_products', 'user_49', 'details:category', 'Electronics'
+
+put 'user_viewed_products', 'user_50', 'details:view_time', '2024-02-19 09:15:00'
+put 'user_viewed_products', 'user_50', 'details:product_id', '1050'
+put 'user_viewed_products', 'user_50', 'details:category', 'Books'
+
+
+create 'user_search_history', 'search_data'
+
+put 'user_search_history', '1', 'search_data:search_time', '2024-01-01 08:00:00'
+put 'user_search_history', '1', 'search_data:search_query', 'Smartphone'
+put 'user_search_history', '1', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '2', 'search_data:search_time', '2024-01-02 09:15:00'
+put 'user_search_history', '2', 'search_data:search_query', 'Fiction Books'
+put 'user_search_history', '2', 'search_data:category', 'Books'
+
+put 'user_search_history', '3', 'search_data:search_time', '2024-01-03 10:30:00'
+put 'user_search_history', '3', 'search_data:search_query', 'Mens Jackets'
+put 'user_search_history', '3', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '4', 'search_data:search_time', '2024-01-04 11:45:00'
+put 'user_search_history', '4', 'search_data:search_query', 'Kitchen Appliances'
+put 'user_search_history', '4', 'search_data:category', 'Home'
+
+put 'user_search_history', '5', 'search_data:search_time', '2024-01-05 12:00:00'
+put 'user_search_history', '5', 'search_data:search_query', 'Laptops'
+put 'user_search_history', '5', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '6', 'search_data:search_time', '2024-01-06 13:15:00'
+put 'user_search_history', '6', 'search_data:search_query', 'Cookbooks'
+put 'user_search_history', '6', 'search_data:category', 'Books'
+
+put 'user_search_history', '7', 'search_data:search_time', '2024-01-07 14:30:00'
+put 'user_search_history', '7', 'search_data:search_query', 'Womens Shoes'
+put 'user_search_history', '7', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '8', 'search_data:search_time', '2024-01-08 15:45:00'
+put 'user_search_history', '8', 'search_data:search_query', 'Home Decor'
+put 'user_search_history', '8', 'search_data:category', 'Home'
+
+put 'user_search_history', '9', 'search_data:search_time', '2024-01-09 16:00:00'
+put 'user_search_history', '9', 'search_data:search_query', 'Smart TVs'
+put 'user_search_history', '9', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '10', 'search_data:search_time', '2024-01-10 17:15:00'
+put 'user_search_history', '10', 'search_data:search_query', 'Mystery Novels'
+put 'user_search_history', '10', 'search_data:category', 'Books'
+
+put 'user_search_history', '11', 'search_data:search_time', '2024-01-11 18:30:00'
+put 'user_search_history', '11', 'search_data:search_query', 'T-shirts'
+put 'user_search_history', '11', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '12', 'search_data:search_time', '2024-01-12 19:45:00'
+put 'user_search_history', '12', 'search_data:search_query', 'Furniture'
+put 'user_search_history', '12', 'search_data:category', 'Home'
+
+put 'user_search_history', '13', 'search_data:search_time', '2024-01-13 20:00:00'
+put 'user_search_history', '13', 'search_data:search_query', 'Headphones'
+put 'user_search_history', '13', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '14', 'search_data:search_time', '2024-01-14 21:15:00'
+put 'user_search_history', '14', 'search_data:search_query', 'Science Fiction'
+put 'user_search_history', '14', 'search_data:category', 'Books'
+
+put 'user_search_history', '15', 'search_data:search_time', '2024-01-15 22:30:00'
+put 'user_search_history', '15', 'search_data:search_query', 'Sweaters'
+put 'user_search_history', '15', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '16', 'search_data:search_time', '2024-01-16 23:45:00'
+put 'user_search_history', '16', 'search_data:search_query', 'Home Lighting'
+put 'user_search_history', '16', 'search_data:category', 'Home'
+
+put 'user_search_history', '17', 'search_data:search_time', '2024-01-17 08:00:00'
+put 'user_search_history', '17', 'search_data:search_query', 'Tablets'
+put 'user_search_history', '17', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '18', 'search_data:search_time', '2024-01-18 09:15:00'
+put 'user_search_history', '18', 'search_data:search_query', 'Non-Fiction Books'
+put 'user_search_history', '18', 'search_data:category', 'Books'
+
+put 'user_search_history', '19', 'search_data:search_time', '2024-01-19 10:30:00'
+put 'user_search_history', '19', 'search_data:search_query', 'Jeans'
+put 'user_search_history', '19', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '20', 'search_data:search_time', '2024-01-20 11:45:00'
+put 'user_search_history', '20', 'search_data:search_query', 'Kitchen Utensils'
+put 'user_search_history', '20', 'search_data:category', 'Home'
+
+put 'user_search_history', '21', 'search_data:search_time', '2024-01-21 12:00:00'
+put 'user_search_history', '21', 'search_data:search_query', 'Smart Watches'
+put 'user_search_history', '21', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '22', 'search_data:search_time', '2024-01-22 13:15:00'
+put 'user_search_history', '22', 'search_data:search_query', 'Children Books'
+put 'user_search_history', '22', 'search_data:category', 'Books'
+
+put 'user_search_history', '23', 'search_data:search_time', '2024-01-23 14:30:00'
+put 'user_search_history', '23', 'search_data:search_query', 'Sneakers'
+put 'user_search_history', '23', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '24', 'search_data:search_time', '2024-01-24 15:45:00'
+put 'user_search_history', '24', 'search_data:search_query', 'Bedroom Furniture'
+put 'user_search_history', '24', 'search_data:category', 'Home'
+
+put 'user_search_history', '25', 'search_data:search_time', '2024-01-25 16:00:00'
+put 'user_search_history', '25', 'search_data:search_query', 'Cameras'
+put 'user_search_history', '25', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '26', 'search_data:search_time', '2024-01-26 17:15:00'
+put 'user_search_history', '26', 'search_data:search_query', 'Poetry Books'
+put 'user_search_history', '26', 'search_data:category', 'Books'
+
+put 'user_search_history', '27', 'search_data:search_time', '2024-01-27 18:30:00'
+put 'user_search_history', '27', 'search_data:search_query', 'Hats'
+put 'user_search_history', '27', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '28', 'search_data:search_time', '2024-01-28 19:45:00'
+put 'user_search_history', '28', 'search_data:search_query', 'Living Room Furniture'
+put 'user_search_history', '28', 'search_data:category', 'Home'
+
+put 'user_search_history', '29', 'search_data:search_time', '2024-01-29 20:00:00'
+put 'user_search_history', '29', 'search_data:search_query', 'Gaming Consoles'
+put 'user_search_history', '29', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '30', 'search_data:search_time', '2024-01-30 21:15:00'
+put 'user_search_history', '30', 'search_data:search_query', 'Travel Books'
+put 'user_search_history', '30', 'search_data:category', 'Books'
+
+put 'user_search_history', '31', 'search_data:search_time', '2024-01-31 22:30:00'
+put 'user_search_history', '31', 'search_data:search_query', 'Shorts'
+put 'user_search_history', '31', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '32', 'search_data:search_time', '2024-02-01 23:45:00'
+put 'user_search_history', '32', 'search_data:search_query', 'Wall Art'
+put 'user_search_history', '32', 'search_data:category', 'Home'
+
+put 'user_search_history', '33', 'search_data:search_time', '2024-02-02 08:00:00'
+put 'user_search_history', '33', 'search_data:search_query', 'Smart Home Devices'
+put 'user_search_history', '33', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '34', 'search_data:search_time', '2024-02-03 09:15:00'
+put 'user_search_history', '34', 'search_data:search_query', 'Cookbooks for Kids'
+put 'user_search_history', '34', 'search_data:category', 'Books'
+
+put 'user_search_history', '35', 'search_data:search_time', '2024-02-04 10:30:00'
+put 'user_search_history', '35', 'search_data:search_query', 'Pants'
+put 'user_search_history', '35', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '36', 'search_data:search_time', '2024-02-05 11:45:00'
+put 'user_search_history', '36', 'search_data:search_query', 'Garden Tools'
+put 'user_search_history', '36', 'search_data:category', 'Home'
+
+put 'user_search_history', '37', 'search_data:search_time', '2024-02-06 12:00:00'
+put 'user_search_history', '37', 'search_data:search_query', 'Bluetooth Speakers'
+put 'user_search_history', '37', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '38', 'search_data:search_time', '2024-02-07 13:15:00'
+put 'user_search_history', '38', 'search_data:search_query', 'Historical Fiction'
+put 'user_search_history', '38', 'search_data:category', 'Books'
+
+put 'user_search_history', '39', 'search_data:search_time', '2024-02-08 14:30:00'
+put 'user_search_history', '39', 'search_data:search_query', 'Skirts'
+put 'user_search_history', '39', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '40', 'search_data:search_time', '2024-02-09 15:45:00'
+put 'user_search_history', '40', 'search_data:search_query', 'Outdoor Furniture'
+put 'user_search_history', '40', 'search_data:category', 'Home'
+
+put 'user_search_history', '41', 'search_data:search_time', '2024-02-10 16:00:00'
+put 'user_search_history', '41', 'search_data:search_query', 'Headsets'
+put 'user_search_history', '41', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '42', 'search_data:search_time', '2024-02-11 17:15:00'
+put 'user_search_history', '42', 'search_data:search_query', 'Self-Help Books'
+put 'user_search_history', '42', 'search_data:category', 'Books'
+
+put 'user_search_history', '43', 'search_data:search_time', '2024-02-12 18:30:00'
+put 'user_search_history', '43', 'search_data:search_query', 'Socks'
+put 'user_search_history', '43', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '44', 'search_data:search_time', '2024-02-13 19:45:00'
+put 'user_search_history', '44', 'search_data:search_query', 'Bedding'
+put 'user_search_history', '44', 'search_data:category', 'Home'
+
+put 'user_search_history', '45', 'search_data:search_time', '2024-02-14 20:00:00'
+put 'user_search_history', '45', 'search_data:search_query', 'Webcams'
+put 'user_search_history', '45', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '46', 'search_data:search_time', '2024-02-15 21:15:00'
+put 'user_search_history', '46', 'search_data:search_query', 'Cookbooks for Adults'
+put 'user_search_history', '46', 'search_data:category', 'Books'
+
+put 'user_search_history', '47', 'search_data:search_time', '2024-02-16 22:30:00'
+put 'user_search_history', '47', 'search_data:search_query', 'Flip Flops'
+put 'user_search_history', '47', 'search_data:category', 'Clothing'
+
+put 'user_search_history', '48', 'search_data:search_time', '2024-02-17 23:45:00'
+put 'user_search_history', '48', 'search_data:search_query', 'Garden Furniture'
+put 'user_search_history', '48', 'search_data:category', 'Home'
+
+put 'user_search_history', '49', 'search_data:search_time', '2024-02-18 08:00:00'
+put 'user_search_history', '49', 'search_data:search_query', 'Smartphone Accessories'
+put 'user_search_history', '49', 'search_data:category', 'Electronics'
+
+put 'user_search_history', '50', 'search_data:search_time', '2024-02-19 09:15:00'
+put 'user_search_history', '50', 'search_data:search_query', 'Adventure Books'
+put 'user_search_history', '50', 'search_data:category', 'Books'
+
+
