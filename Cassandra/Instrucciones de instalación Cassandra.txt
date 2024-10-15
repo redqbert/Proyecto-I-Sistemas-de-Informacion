@@ -23,6 +23,6 @@ Iniciar Cassandra:
 2)"Cassandra"->"apache-cassandra-3.11.10"->"bin"
 3)Una vez dentro de la carpeta bin, en la dirección de la carpeta escribimos "cmd" y le damos "ENTER"
 4)Una vez en el cmd, escribimos el comando: "cassandra", se empezará a cargar y al final debe decir "CassandraDaemon.java:650 - Startup complete"
-5)Ya que Cassandra esté iniciado, nos salimos del cmd
+5)Aunque ahora Cassandra estará iniciado, no cierre el cmd
 6)En la carpeta bin a la que accedimos en el punto 2) de esta parte habrá un archivo llamado "cqlsh.py" este es un archivo tipo Python en el que ya se puede utilizar Cassandra.
 IMPORTANTE: Siempre que se quiera usar Cassandra se deben seguir estos últimos 6 pasos.
