@@ -1,0 +1,56 @@
+CREATE KEYSPACE company
+WITH REPLICATION = {
+  'class' : 'SimpleStrategy',
+  'replication_factor' : 3
+};
+
+USE company;
+
+CREATE TABLE user_interactions (
+    user_id int,
+    interaction_time timestamp, 
+    product_id int,
+    action text,  
+    category text, 
+    PRIMARY KEY (user_id, interaction_time)
+) WITH CLUSTERING ORDER BY (interaction_time DESC);
+
+CREATE TABLE popular_products (
+    category text,
+    product_name text,
+    product_id int,
+    total_interactions int, 
+    PRIMARY KEY (category, total_interactions)
+) WITH CLUSTERING ORDER BY (total_interactions DESC);
+
+CREATE TABLE user_purchase_history (
+    user_id int,
+    purchase_time timestamp, 
+    product_id int,
+    category text,
+    PRIMARY KEY (user_id, purchase_time)
+) WITH CLUSTERING ORDER BY (purchase_time DESC);
+
+CREATE TABLE product_co_purchase (
+    product_id int, 
+    co_purchased_product_id int, 
+    co_purchased_product_name text,
+    total_purchases int,
+    PRIMARY KEY (product_id, total_purchases)
+) WITH CLUSTERING ORDER BY (total_purchases DESC);
+
+CREATE TABLE user_viewed_products (
+    user_id int,
+    view_time timestamp, 
+    product_id int,
+    category text,
+    PRIMARY KEY (user_id, view_time)
+) WITH CLUSTERING ORDER BY (view_time DESC);
+
+CREATE TABLE user_search_history (
+    user_id int,
+    search_time timestamp,
+    search_query text, 
+    category text, 
+    PRIMARY KEY (user_id, search_time)
+) WITH CLUSTERING ORDER BY (search_time DESC);
