@@ -1,0 +1,28 @@
+Pasos para descargar Apache Cassandra en su versión 3.10.11 para Windows 10 
+
+1)Descargar las cosas necesarias que se facilitan en el siguiente link, entre estas están: Repositorio de Apache Cassandra 3.11.10, Python 2.7.18 y Java Development Kit (JDK) 8.
+https://drive.google.com/drive/folders/1fEvA2a2uOYHdTv5nox_6J3DSpcmhCOdY?usp=drive_link
+2)Click en las descargas de Python y Java para instalar ambas aplicaciones, no es necesario hacer ninguna configuración por lo que se le puede dar siguiente a todo.
+3)Descomprimir el repositorio de Apache Cassandra, se va a "Este equipo"->"Disco local" y crea una carpeta nueva llamada "Cassandra" donde se debe de pegar el repositorio anteriormente descomprimido.
+4)En el buscador de su computadora, poner "Editar variables del entorno del sistema" y le da abrir. IMPORTANTE: Cerrar la aplicación de archivos mientras esté editando las variables del entorno.
+5)Entrar en "Variables de entorno", ubicado en la esquina inferior derecha.
+6)Abajo, en "Variables del sistema" se busca la variable "path" y se le da "Editar"
+7)Se agregarán 2, a la derecha, se da click en "Nuevo" y luego en "Examinar...". 
+La primera será la de Python, al darle examinar se va a "Este equipo"->"Disco local"->Python27, solo selecciona la carpeta y le da "Aceptar"
+La segunda será la de Cassandra, se pone la carpeta creada en el punto 3)
+Ambas deben verse algo como esto:
+C:\Python27
+C:\Cassandra\apache-cassandra-3.11.10
+8)Volvemos a "Variables del entorno", ahora, abajo en "Variables del sistema", se creará una nueva en "Nueva..."
+Nombre de la variable: JAVA_HOME
+Valor de la variable: "Examinar directorio..."->"Este equipo"->"Disco local"->"Archivos de programa"->"Java"->"jdk1.8.0_251" y "Aceptar"
+9)Aceptamos los cambios y salimos de "Variables del entorno"
+
+Iniciar Cassandra:
+1)Buscamos la carpeta de Cassandra creada en el punto 3) de la instalación
+2)"Cassandra"->"apache-cassandra-3.11.10"->"bin"
+3)Una vez dentro de la carpeta bin, en la dirección de la carpeta escribimos "cmd" y le damos "ENTER"
+4)Una vez en el cmd, escribimos el comando: "cassandra", se empezará a cargar y al final debe decir "CassandraDaemon.java:650 - Startup complete"
+5)Ya que Cassandra esté iniciado, nos salimos del cmd
+6)En la carpeta bin a la que accedimos en el punto 2) de esta parte habrá un archivo llamado "cqlsh.py" este es un archivo tipo Python en el que ya se puede utilizar Cassandra.
+IMPORTANTE: Siempre que se quiera usar Cassandra se deben seguir estos últimos 6 pasos.
