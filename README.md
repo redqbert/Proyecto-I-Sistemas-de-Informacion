@@ -1,7 +1,7 @@
 # Proyecto-I-Sistemas-de-Informacion
 Comparacion de caracteristicas de productos empleados en un sistema de recomendaciones en tiempo real de una plataforma de comercio electrónico.
 
-## Introducción 
+# Introducción 
 Este repositorio contiene el trabajo titulado "Sistema de Recomendaciones en Tiempo Real Para Una Plataforma de Comercio Electrónico Utilizando Bases de Datos Orientadas a Columnas". El estudio investiga el uso de bases de datos NoSQL, específicamente Cassandra y HBase, para desarrollar un sistema que analice el comportamiento de los usuarios en plataformas de comercio electrónico y genere recomendaciones personalizadas.
 
 # Resumen sobre Bases de Datos NoSQL
