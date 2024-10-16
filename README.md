@@ -22,5 +22,5 @@ El artículo aborda las limitaciones de las bases de datos SQL tradicionales en 
 - Métodos de consulta
 - Almacenamiento
 
-#Conclusiones
+# Conclusiones
 Los resultados indican que, si bien ambos sistemas son capaces de manejar grandes volúmenes de datos, Cassandra es más adecuada para aplicaciones que priorizan la velocidad y escalabilidad, mientras que HBase es preferible en entornos donde la precisión y recuperación ante fallos son críticas.
