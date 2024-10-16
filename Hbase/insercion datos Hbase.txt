@@ -1,7 +1,7 @@
 create 'user_interactions', 'info'
 
-put 'user_interactions', '1_2024-01-01 00:00:00', 'info:user_id', '1'
-put 'user_interactions', '1_2024-01-01 00:00:00', 'info:interaction_time', '2024-01-01 08:00:00'
+put 'user_interactions', '1_2024-01-01 00:00:01', 'info:user_id', '1'
+put 'user_interactions', '1_2024-01-01 00:00:01', 'info:interaction_time', '2024-01-01 08:00:00'
 put 'user_interactions', '1_2024-01-01 00:00:01', 'info:product_id', '1001'
 put 'user_interactions', '1_2024-01-01 00:00:01', 'info:action', 'view'
 put 'user_interactions', '1_2024-01-01 00:00:01', 'info:category', 'Electronics'
